@@ -1,4 +1,5 @@
 python 3.10.9
-streamlit_option_menu
+Anaconda
+streamlit
 streamlit_as_st
 pip-22.3.1

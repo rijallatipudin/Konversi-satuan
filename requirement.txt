@@ -1,3 +1,4 @@
 python 3.10.9
-streamlit option menu
+streamlit_option_menu
+streamlit_as_st
 pip-22.3.1
